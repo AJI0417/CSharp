@@ -1,0 +1,12 @@
+C:\Users\User\Desktop\0324\0324\bin\Debug\0324.exe.config
+C:\Users\User\Desktop\0324\0324\bin\Debug\0324.exe
+C:\Users\User\Desktop\0324\0324\bin\Debug\0324.pdb
+C:\Users\User\Desktop\0324\0324\bin\Debug\Microsoft.VisualBasic.PowerPacks.Vs.dll
+C:\Users\User\Desktop\0324\0324\obj\Debug\0324.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\0324\0324\obj\Debug\_0324.Form1.resources
+C:\Users\User\Desktop\0324\0324\obj\Debug\_0324.Properties.Resources.resources
+C:\Users\User\Desktop\0324\0324\obj\Debug\0324.csproj.GenerateResource.cache
+C:\Users\User\Desktop\0324\0324\obj\Debug\0324.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\0324\0324\obj\Debug\0324.csproj.Up2Date
+C:\Users\User\Desktop\0324\0324\obj\Debug\0324.exe
+C:\Users\User\Desktop\0324\0324\obj\Debug\0324.pdb
