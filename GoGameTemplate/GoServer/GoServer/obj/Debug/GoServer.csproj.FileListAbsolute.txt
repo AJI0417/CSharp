@@ -1,0 +1,10 @@
+C:\Users\User\Desktop\GoGameTemplate\GoServer\GoServer\bin\Debug\GoServer.exe.config
+C:\Users\User\Desktop\GoGameTemplate\GoServer\GoServer\bin\Debug\GoServer.exe
+C:\Users\User\Desktop\GoGameTemplate\GoServer\GoServer\bin\Debug\GoServer.pdb
+C:\Users\User\Desktop\GoGameTemplate\GoServer\GoServer\obj\Debug\GoServer.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\GoGameTemplate\GoServer\GoServer\obj\Debug\GoServer.Form1.resources
+C:\Users\User\Desktop\GoGameTemplate\GoServer\GoServer\obj\Debug\GoServer.Properties.Resources.resources
+C:\Users\User\Desktop\GoGameTemplate\GoServer\GoServer\obj\Debug\GoServer.csproj.GenerateResource.cache
+C:\Users\User\Desktop\GoGameTemplate\GoServer\GoServer\obj\Debug\GoServer.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\GoGameTemplate\GoServer\GoServer\obj\Debug\GoServer.exe
+C:\Users\User\Desktop\GoGameTemplate\GoServer\GoServer\obj\Debug\GoServer.pdb

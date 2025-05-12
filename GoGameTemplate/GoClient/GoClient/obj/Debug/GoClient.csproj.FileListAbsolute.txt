@@ -1,0 +1,12 @@
+C:\Users\User\Desktop\GoGameTemplate\GoClient\GoClient\bin\Debug\GoClient.exe.config
+C:\Users\User\Desktop\GoGameTemplate\GoClient\GoClient\bin\Debug\GoClient.exe
+C:\Users\User\Desktop\GoGameTemplate\GoClient\GoClient\bin\Debug\GoClient.pdb
+C:\Users\User\Desktop\GoGameTemplate\GoClient\GoClient\bin\Debug\Microsoft.VisualBasic.PowerPacks.Vs.dll
+C:\Users\User\Desktop\GoGameTemplate\GoClient\GoClient\obj\Debug\GoClient.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\GoGameTemplate\GoClient\GoClient\obj\Debug\GoClient.Form1.resources
+C:\Users\User\Desktop\GoGameTemplate\GoClient\GoClient\obj\Debug\GoClient.Properties.Resources.resources
+C:\Users\User\Desktop\GoGameTemplate\GoClient\GoClient\obj\Debug\GoClient.csproj.GenerateResource.cache
+C:\Users\User\Desktop\GoGameTemplate\GoClient\GoClient\obj\Debug\GoClient.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\GoGameTemplate\GoClient\GoClient\obj\Debug\GoClient.csproj.Up2Date
+C:\Users\User\Desktop\GoGameTemplate\GoClient\GoClient\obj\Debug\GoClient.exe
+C:\Users\User\Desktop\GoGameTemplate\GoClient\GoClient\obj\Debug\GoClient.pdb
